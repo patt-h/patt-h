@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Patryk 👋
+### Backend developer who's intrested in Fullstack
 
-<!--
-**patt-h/patt-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 <b>I’m currently learning:</b> Spring, React, Kubernetes
 
-Here are some ideas to get you started:
+- 💡 <b>My goal:</b> At least one commit every day for the rest of my life
+  
+- ⚡ <b>Fun fact:</b> Back in the day I started learning Java because Minecraft is written in it 💁‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+![My Skills](https://skillicons.dev/icons?i=java,spring,react,mysql,docker)
+
+###
