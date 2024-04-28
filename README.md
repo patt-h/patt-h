@@ -8,6 +8,6 @@
 - ⚡ <b>Fun fact:</b> Back in the day I started learning Java because Minecraft is written in it 💁‍♂️
 
 ### Skills
-![My Skills](https://skillicons.dev/icons?i=java,spring,react,mysql,docker)
+![My Skills](https://skillicons.dev/icons?i=java,spring,react,mysql,postgres,docker)
 
 ###
