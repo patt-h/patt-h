@@ -1,5 +1,5 @@
 ## Hi, I'm Patryk 👋
-### Backend developer who's intrested in Fullstack
+### Java Developer
 
 - 🌱 <b>I’m currently learning:</b> Spring, React, Kubernetes
 
